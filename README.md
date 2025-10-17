@@ -23,5 +23,5 @@ I am solving minimum 5 problems per day to build consistency and strengthen my D
 
 ## 🌟 Connect
 
-- GitHub: [@YourUsername](https://github.com/AJKakarot)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ajeet-gupta-99aa6b281/)
+- GitHub: [@AJKakarot](https://github.com/AJKakarot)  
+- LinkedIn: [ajeetgupta](https://www.linkedin.com/in/ajeet-gupta-99aa6b281/)
