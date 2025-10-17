@@ -7,4 +7,3 @@
 //{} → initializes containers like vector, array, struct
 //[] → used only for indexing/accessing elements, not for creating vectors
 //But for vectors, .length() ❌ does not exist.
-
