@@ -1,0 +1,10 @@
+//vector<int> v = {1,2,3};
+//string s = "Hello";
+
+//v.size();    // 3 → number of elements in vector
+//s.size();    // 5 → number of characters in string
+//s.length();  // 5 → same as s.size() for string
+//{} → initializes containers like vector, array, struct
+//[] → used only for indexing/accessing elements, not for creating vectors
+//But for vectors, .length() ❌ does not exist.
+
